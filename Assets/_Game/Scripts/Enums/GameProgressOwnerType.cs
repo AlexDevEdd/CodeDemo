@@ -1,0 +1,35 @@
+﻿namespace _Game.Scripts.Enums
+{
+    public enum GameProgressOwnerType
+    {
+        None,
+        OrderSystem,
+        GameTaskSystem,
+        RoomCycleSystem,
+        CashNowButton,
+        PrisonerBehaviour,
+        BusDepartureSystem,
+        WardenArrival,
+        WardenDeparture,
+        HelicopterSystem,
+        SpeedUpButton,
+        PrisonerTimer,
+        PrisonersFromCarTimer,
+        RunnerCharacter,
+        JetPackSystem,
+        Scenario,
+        ReceptionOfficer,
+        RegistrationOfficer,
+        WardenPost,
+        CarCop,
+        SevenDayChallengeSystem,
+        UpgradeRoom,
+        BuyBuilding,
+        CallCenterOfficer,
+        CardCharacter,
+        CollectionSystem,
+        TapGameSystem,
+        CriminalisticCharacter,
+        BuyRoom
+    }
+}
